@@ -1,0 +1,40 @@
+{
+  "student": [
+    {
+      "name": "karunakar",
+      "course": "mern",
+      "duration": "6months",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "waseem",
+      "course": "java",
+      "duration": "2 months"
+    },
+    {
+      "id": "3",
+      "name": "gnani",
+      "course": "python",
+      "duration": "4 months"
+    },
+    {
+      "name": "shannu",
+      "course": ".Net",
+      "duration": "6months",
+      "id": "4"
+    },
+    {
+      "name": "dileep",
+      "course": "jfsd",
+      "duration": "3omonths",
+      "id": "564c"
+    },
+    {
+      "id": "b7b9",
+      "name": "sv",
+      "course": "sv",
+      "duration": "sv"
+    }
+  ]
+}
